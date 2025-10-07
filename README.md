@@ -4,7 +4,7 @@ Soy autodidacta y entusiasta de la tecnología, con experiencia en administraci�
 
 ## Habilidades técnicas
 
-- Programación en .lua (MTA:SA)
+- Programación en python (Analisis de datos)
 - Manejo de Figma, Photoshop, Illustrator y SketchUp
 - QuickBooks (gestión de inventarios)
 - Paquete Office (Word, Excel, PowerPoint)
