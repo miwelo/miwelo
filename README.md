@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Miguel Inoa
 
-Soy autodidacta y entusiasta de la tecnología, con experiencia en administración, logística y soporte técnico. Programador en .lua para MTA:SA y aprendiz de desarrollo web y ciberseguridad, con la meta de convertirme en desarrollador full stack y especialista en seguridad informática.
+Soy autodidacta y entusiasta de la tecnología, con experiencia en administración, logística y soporte técnico. Programador en python enfocado al analisis de datos y aprendiz de desarrollo web y ciberseguridad, con la meta de convertirme en desarrollador full stack y especialista en seguridad informática.
 
 ## Habilidades técnicas
 
